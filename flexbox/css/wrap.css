@@ -1,0 +1,10 @@
+.holder
+{
+    border : 3px solid purple;
+    display : flex;
+    /* flex-direction : row; */
+    width : 17px;
+    flex-wrap : wrap; 
+    /* justify-content : space-around;  */
+     /* align-content : baseline;  */
+}
